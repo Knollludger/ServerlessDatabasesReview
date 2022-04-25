@@ -2,7 +2,6 @@
 CREATE TABLE artists (
     id int(100),
     name varchar(200),
-    debut timestamp,
     PRIMARY KEY (id)
 )
 

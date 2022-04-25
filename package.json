@@ -1,0 +1,11 @@
+{
+  "name": "ServerlessDatabasesReview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Knollludger/ServerlessDatabasesReview.git",
+  "author": "Sean Timm <seantimm3@aol.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
