@@ -12,5 +12,3 @@ CREATE TABLE songs (
     duration int(10),
     PRIMARY KEY (id),
 )
-
-    -- FOREIGN KEY (artist) REFERENCES artists(id)
